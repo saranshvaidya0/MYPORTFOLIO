@@ -1,121 +1,125 @@
 # Saransh T'Vaidya: Personal Site
 
-[![Build Status](https://img.shields.io/github/actions/workflow/status/mldangelo/personal-site/node.js.yml?branch=main)](https://github.com/mldangelo/personal-site/actions)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE)
-[![GitHub Stars](https://img.shields.io/github/stars/mldangelo/personal-site?style=social)](https://github.com/mldangelo/personal-site/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/mldangelo/personal-site?style=social)](https://github.com/mldangelo/personal-site/network/members)
 
-The source for [mldangelo.com](https://mldangelo.com), a portfolio, résumé,
-project archive, and writing site built with
-[Next.js](https://nextjs.org/), [React](https://react.dev/),
-[TypeScript](https://www.typescriptlang.org/), and
-[Tailwind CSS](https://tailwindcss.com/).
 
-The architecture is reusable and MIT licensed. The content and visual design
-are personal, so a fork needs a full rebrand.
+
 
 **[Visit the live site →](https://www.saranshvaidya.me/)**
+# 👨‍💻 MYPORTFOLIO — Personal Portfolio Website
 
-## What is here
+Welcome to my personal portfolio repository! 🚀
 
-- A statically exported Next.js 16 site deployed to GitHub Pages.
-- A responsive light/dark design system built from semantic CSS tokens.
-- Markdown writing with drafts, RSS, and page metadata.
-- A filterable résumé that still prints in full.
-- Tests for components, content, metadata, and the final static export.
+This project showcases my journey as a developer, including my technical skills, projects, educational background, and interests in software development, Artificial Intelligence, and Data Science.
 
-## Get started
+My portfolio serves as a central place to explore my work, learn more about my skills, and connect with me professionally.
 
-### With a coding agent
+## ✨ Features
 
-Open your fork in a coding agent and ask:
+- **Personal Introduction:** Learn about my background, interests, and career goals.
+- **Technical Skills:** Explore my programming languages, tools, and technologies.
+- **Project Showcase:** Discover my academic, personal, and technical projects.
+- **Education:** View my educational background.
+- **Contact Information:** Find ways to connect with me professionally.
+- **Responsive Design:** Designed to provide a convenient browsing experience across different screen sizes, where supported by the implementation.
 
-```text
-Read AGENTS.md, use the Node version in .nvmrc, install the locked
-dependencies, and start the development server. Do not change the site yet.
-Tell me the local URL and report any setup failure with its exact output.
-```
+## 🛠️ Technologies Used
 
-### Manual setup
+The portfolio may use the following web technologies, depending on the current implementation:
 
-With [GitHub CLI](https://cli.github.com/) and
-[nvm](https://github.com/nvm-sh/nvm) installed:
+- **HTML5** — Website structure and content
+- **CSS3** — Styling, layouts, and visual presentation
+- **JavaScript** — Interactive elements and dynamic functionality
+- **Git & GitHub** — Version control and project hosting
 
-```bash
-gh repo fork mldangelo/personal-site --clone
-cd personal-site
-nvm install
-npm ci
-npm run dev
-```
+## 📂 Project Structure
 
-If you use another version manager, choose a release accepted by `engines.node`
-in `package.json`.
-
-### GitHub Codespaces
-
-1. Click **Fork** at the top of this page.
-2. In your fork, click **Code**, choose **Codespaces**, then create a codespace.
-3. Run:
-
-```bash
-nvm install
-npm ci
-npm run dev
-```
-
-Codespaces provides the tools, so you do not need to install them locally.
-
-## Adapt it with a coding agent
-
-When you are ready to customize the site, give the agent your résumé, profile
-details, links, images, and intended site URL. Try:
+The exact file structure depends on the files included in this repository. A typical portfolio project may look like this:
 
 ```text
-Read AGENTS.md and docs/adapting-guide.md, set up the repository, then rebrand
-this fork for [NAME] with the details and assets I provide. Work on a topic
-branch and preserve the current routes and design unless I say otherwise.
-Inventory the existing posts, external writing, résumé, and projects before
-changing the shared identity. Do not relabel that content as mine. Ask whether
-unmatched personal content should keep its original attribution, be replaced,
-or be removed. Use the guide's reference map to update every identity surface
-and generated asset. Search for remaining upstream details and run the full
-validation suite. Do not commit, push, merge, change GitHub settings, create
-secrets, or modify DNS. Report the external steps that remain.
+MYPORTFOLIO/
+│
+├── index.html          # Main portfolio page
+├── style.css           # Website styling
+├── script.js           # Interactive functionality
+├── assets/             # Images, icons, and other assets
+├── README.md           # Project documentation
+└── ...
 ```
 
-The **[adapting guide](./docs/adapting-guide.md)** has focused prompts for
-writing, feature removal, visual changes, and deployment, plus a map of the
-files an agent should inspect.
+## 🚀 Getting Started
 
-## Commands
+Follow these steps to run the project on your local machine.
+
+### Prerequisites
+
+- A modern web browser
+- Git installed on your computer
+- A code editor such as Visual Studio Code
+
+### 1. Clone the Repository
 
 ```bash
-npm run dev             # Start the development server
-npm run format          # Format with Prettier and Biome
-npm run lint            # Run Biome checks
-npm run type-check      # Run TypeScript
-npm test                # Run Vitest
-npm run build           # Build the production static export
-npm run verify-export   # Inspect the generated HTML and XML
-npm run og              # Regenerate the share card
-npm run og:check        # Verify the committed share card is current
+git clone https://github.com/saranshvaidya0/MYPORTFOLIO.git
 ```
 
-CI checks formatting, linting, types, the share card, tests, the production
-build, and the exported site on every pull request.
+### 2. Navigate to the Project Directory
 
-## Deploy
+```bash
+cd MYPORTFOLIO
+```
 
-Pushes to `main` deploy the same static build that CI validates. See the
-[adapting guide](./docs/adapting-guide.md#deployment-reference) for URL and
-domain setup.
+### 3. Open the Project
 
-## Contributing
+Open the project folder in Visual Studio Code.
 
-See the [contributing guide](./docs/contributing.md) for setup, branch and commit
-conventions, validation, and pull request expectations.
+If the project contains an `index.html` file, open it directly in your browser or use the **Live Server** extension in Visual Studio Code.
 
-## License
+If your project uses a framework or build tool, follow the installation and startup commands specified in its configuration files.
 
-[MIT](./LICENSE). Use it however you want.
+## 🎯 Project Goals
+
+- Build a professional online presence.
+- Present technical skills and projects in one place.
+- Demonstrate practical web development experience.
+- Make it easier for recruiters and collaborators to explore my work.
+- Continuously improve my development and design skills.
+
+## 👨‍💻 About Me
+
+Hi! I'm **Saransh Vaidya**, a student pursuing Engineering in Artificial Intelligence and Data Science.
+
+I'm interested in software development, web technologies, Artificial Intelligence, Machine Learning, and building practical projects that solve real-world problems.
+
+I enjoy learning new technologies, developing applications, and improving my programming and problem-solving skills.
+
+My goal is to grow as a software developer and contribute to meaningful technology projects.
+
+## 🌐 Connect With Me
+
+- **GitHub:** [saranshvaidya0](https://github.com/saranshvaidya0)
+- **Portfolio Repository:** [MYPORTFOLIO](https://github.com/saranshvaidya0/MYPORTFOLIO)
+- **Visit the live site:** [saranshvaidya.me](https://www.saranshvaidya.me/)
+
+*Add your live portfolio URL, LinkedIn profile, and professional email here.*
+
+## 🔮 Future Improvements
+
+- Add new projects and technical achievements.
+- Improve the website's responsive design and accessibility.
+- Enhance animations and interactive elements.
+- Add new skills, certifications, and experience as I progress.
+- Improve performance and user experience.
+
+## 🤝 Contributions
+
+This portfolio is a personal project intended to showcase my development journey. Suggestions and constructive feedback are always welcome.
+
+## 📄 License
+
+Unless a license is added to this repository, all rights and permissions remain subject to applicable copyright law. Please contact the repository owner before redistributing or reusing the project's original content.
+
+---
+
+⭐ **Thank you for visiting my repository!**
+
+If you find my work interesting, feel free to explore my other projects on GitHub.
