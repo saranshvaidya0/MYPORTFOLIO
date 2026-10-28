@@ -28,12 +28,20 @@ export default function ResumePage() {
         <header className="resume-header">
           <h1 className="resume-title">Resume</h1>
           <p className="resume-summary">
-            Engineering leader with 15+ years building products across AI,
+            {/* Engineering leader with 15+ years building products across AI,
             security, and infrastructure. I&apos;m currently a Member of the
             Technical Staff at OpenAI, working on Promptfoo and Codex Security.
             I help secure AI systems and use AI to find software
             vulnerabilities. I co-founded Promptfoo before it joined OpenAI in
-            2026. Stanford MS, YC alum, previously VP Engineering.
+            2026. Stanford MS, YC alum, previously VP Engineering. */}
+            Aspiring Software Developer and AI & Data Science Engineer passionate
+            about building intelligent applications and scalable web solutions.
+            Experienced in developing AI-powered projects, including plant disease detection,
+            PDF-based medical chatbots, and flood inundation modelling for SIH 2026.
+            Skilled in Python, machine learning, deep learning, full-stack web development,
+            and data analytics. Active in open-source contributions, hackathons, and technical
+            community leadership, with a strong focus on problem-solving, innovation, and building
+            secure, user-focused software solutions.
           </p>
           {/* Print-only, but real markup rather than CSS `content`, so it is
               selectable, linkable, and reads from the shared profile. The
