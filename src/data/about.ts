@@ -8,88 +8,70 @@ Ultimately, I want to become a great man - Not just in what I accomplish, but in
 
 # Some History
 
-- My parents put a computer in my bedroom in 1993 when I was 3. It was an old Tandy that ran MS-DOS. My favorite games were Street Rod 2, Wolfenstein 3D, and Tom and Jerry. It had a mechanical keyboard and a turbo button. To this day, I still don't know what pressing the turbo button really did.
-- We subscribed to AOL in 1995. I still remember installing it from a floppy disk onto our brand-new Packard Bell. It took years for me to send my first email.
-- In the summer of 1996, my uncle purchased [MegaRace](https://en.wikipedia.org/wiki/MegaRace) from [Media Play](https://en.wikipedia.org/wiki/Media_Play) and installed it on my mom's work computer. I might have endangered her business by using her computer too much.
-- At 7, I discovered the mini-games hidden in Microsoft Office. I also beat Minesweeper on expert for the first time.
-- At 8, my parents bought me a Sony Mavica MVC-FD71 digital camera after I stole their SLR one too many times. It could fit 10 images to a floppy disk at a 0.3MP resolution. I still have it, and it still works. I've been taking photographs ever since, now with a Nikon D750, D800, and occasionally with a Mamiya 6II.
-- At 10, I built my first website with Microsoft FrontPage on our Pentium III [Gateway](https://en.wikipedia.org/wiki/Gateway,_Inc.). My website was terrible.
-- I was 11 when I built my first [Tesla Coil](https://en.wikipedia.org/wiki/Tesla_coil) (without my parents' permission). Over the next few years, I built several more, including one of the first audio modulated coils and one of the first DRSSTCs.
-- When I was 12, I set the all-time high record at my local laser tag facility by reverse engineering the charging station and weapon protocols with a photo-resistor, micro-cassette recorder, and a lot of patience. I was unstoppable.
-- At 13, I went to space camp and fell in love. I went back two more times and promised myself that I'd work in space. I've since helped build three generations of satellites and have contributed to two more.
-- At 14, I was almost expelled for finding a backdoor into my high school's file server and telling everyone but the faculty members about it. Later that year, I figured out how to turn off the internet firewall by editing system registry keys. I anonymously shared my work months later.
-- At 16, I participated in a foreign exchange program in Dortmund, Germany. Since then, I've gone back almost every year.
-- 14 - 17, I played a lot of video games. My favorites included Counter-Strike Source, Command and Conquer 3, Halo 2, and Age of Empires II.
-- At 18, in the summer before college, my friends and I started playing [Muggle Quidditch](<https://en.wikipedia.org/wiki/Quidditch_(sport)>). We went on to start over 8 teams in the [International Quidditch Association](https://en.wikipedia.org/wiki/International_Quidditch_Association), including the [Buffalo Quidditch Society](https://www.facebook.com/buffaloquidditch/). At our height, we were ranked third in the IQA. Although I don't play anymore, you can still see pictures of me holding a broom while wearing a chess camp t-shirt on Facebook.
-- At 19, I took my first graduate course and published my first academic paper.
-- At 20, I co-authored a grant to build a satellite and managed a 60+ person team for the next two years. You can read more about [that project](https://ubnl.space/glados/).
+- My journey into technology started with curiosity — wanting to understand how software works, how websites are built, and how a simple idea can turn into something people can actually use. Over time, that curiosity became a passion for programming, artificial intelligence, and building things.
+- During my school years, I completed my secondary education and then pursued the Science stream for my higher secondary studies. Those years laid the foundation for the analytical thinking and problem-solving skills I continue to develop today.
+- In 2023, I began my engineering journey, studying Artificial Intelligence and Data Science at Wainganga College of Engineering and Management, affiliated with RTM Nagpur University. I started exploring the world of programming more seriously, discovering how computer science connects logic, creativity, and real-world applications.
+- As I explored software development, I became interested in building websites and applications. I started learning programming languages, frontend development, and the tools developers use to turn designs and ideas into working products. Every project became an opportunity to learn something beyond the classroom.
+- In 2024, I took on responsibilities in my college's Technical Committee. Over time, I became the Technical Head, helping coordinate a team of around 10/15 students. We organized coding competitions, hackathons, technical workshops, AI and web development sessions, quizzes, and project exhibitions. It taught me that technology is not just about individual skills — it's also about teamwork, communication, and making things happen together.
+- I continued exploring Python, SQL, machine learning, and web development. Instead of limiting myself to tutorials, I wanted to build projects that combined different technologies and addressed practical problems.
+- In 2025, I participated in Prompt War, organized by Hack2Skill in collaboration with Google. Leading a four-member team, I explored prompt engineering and Large Language Models (LLMs) while developing an AI-powered application. It gave me an opportunity to experiment with emerging technologies and understand how AI can be applied to real-world challenges.
+- I started exploring machine learning and computer vision through Plant Health, a project focused on plant disease recognition. Working with image-based prediction helped me understand how data, model training, and application development come together to create useful AI tools.
+- I also worked on Chat_Bot_PDF, exploring how an AI chatbot can answer questions from documents using Retrieval-Augmented Generation (RAG), embeddings, and vector search. This project introduced me to a different side of AI: helping people find useful information from their own documents.
+- My interests expanded into healthcare technology through an experimental ICU Early Warning System. I explored machine learning and deep learning approaches for predicting potential patient deterioration using clinical datasets. It showed me how important careful evaluation and responsible use of AI are, especially in sensitive applications.
+- Alongside AI and machine learning, I continued developing my full-stack skills. I became increasingly interested in how frontend interfaces, backend logic, APIs, and databases work together to form complete applications. I wanted to understand the entire development process, from the first line of code to deployment.
+- In 2026, I began exploring open-source development more actively. I introduced myself to the Learning Unlimited community through its ESP-Website repository, with an interest in contributing to regression testing and improving software reliability. I also started exploring opportunities connected to Google Summer of Code (GSoC) 2026. The experience reinforced an important lesson: contributing to software is as much about understanding an existing codebase and collaborating with others as it is about writing new code.
+- I also took on a challenging problem through my Smart India Hackathon (SIH) 2026 project, "Dam Break Inundation Modelling Using Hydrodynamic Modelling of Any River." Our work explored hydrodynamic modelling and flood inundation analysis, with the goal of understanding how dam-break scenarios can affect surrounding areas.
+- As my projects grew, I realized that a portfolio was more than a place to display screenshots and repository links. I wanted to create a space that brings together my projects, technical skills, experiences, and the story behind them. That idea became my personal portfolio website.
+- Today, I'm continuing my journey as an Artificial Intelligence and Data Science engineering student, aspiring software developer, and technology enthusiast. I'm interested in AI-powered applications, full-stack development, open-source collaboration, and solving problems through practical engineering.
+- I'm still learning new tools, exploring unfamiliar codebases, experimenting with ideas, and building projects that challenge me to improve. I don't expect to know everything; I just want to keep learning, keep creating, and get better with every project.
 
-Ask me in person for other stories that I'm afraid to share with the internet.
+Ask me in person about the ideas, experiments, and experiences that don't fit into a portfolio.
 
 # I Like
 
 - Running.
 - Skiing.
-- Sailing and the sea.
 - Space.
-- Summer.
-- Books.
-- Podcasts ([The Live](https://www.thehindu.com/topic/live-news/), [The Ezra Klein Show](https://www.nytimes.com/column/ezra-klein-podcast), [Planet Money](https://www.npr.org/sections/money/), [Dwarkesh Podcast](https://www.dwarkesh.com/about/), [The a16z Show](https://a16z.com/podcasts/a16z-podcast/), [The MAD Podcast with Matt Turck](https://firstmark.com/community/the-mad-podcast/), [Uncapped with Jack Altman](https://podcasts.apple.com/us/podcast/uncapped-with-jack-altman/id1801867202), [Darknet Diaries](https://darknetdiaries.com/), and others).
-- [Good design](/).
-- [Photography](https://instagram.com/dangelosaurus).
+- Anime.
+- Manga.
+- Manhwa.
+- Podcasts ([The Seen and the Unseen](https://podcasts.apple.com/in/podcast/the-seen-and-the-unseen-hosted-by-amit-varma/id1190896090),[Figuring Out with Raj Shamani](https://podcasts.apple.com/in/podcast/figuring-out-with-raj-shamani/id1501941375), [The Startup Operator](https://podcasts.apple.com/in/podcast/the-startup-operator/id1509369847), [The Neon Show](https://podcasts.apple.com/in/podcast/the-neon-show/id1457308560), [The BarberShop with Shantanu](https://podcasts.apple.com/in/podcast/the-barbershop-with-shantanu/id1657402141) and others).
+- [Art Good](https://www.instagram.com/mr.infinityz_comic_art/).
+- Photography.
 
 # Travel / Geography
 
-- I am originally from Buffalo, New York. I have since lived in Palo Alto, Mountain View, San Francisco, Seattle, and New York City.
-- I've been to approximately 50 countries, some of which I have forgotten, many of which I would like to revisit.
-- In 2016, I visited Canada, Ethiopia, Austria, Germany, Belgium, Ireland, Northern Ireland, Italy, Romania, Sweden, Norway, Svalbard, Panama, Costa Rica, Uganda, Japan, and the UAE, mostly in that order.
-- In 2017, I visited Canada, Japan, Denmark, Germany, Sweden, Estonia, Russia, the Netherlands, Belgium, the UK, Spain, Iceland, France, Switzerland, Ethiopia, and Luxembourg.
-- In 2018, I visited Canada, France, Italy, Israel, and the UK.
-- In 2019, I visited Canada, the UK, France, and Switzerland.
-- In 2020, I traveled barely 20 blocks. I stayed in New York and remodeled an apartment.
-- In 2021, I continued remodeling an apartment.
-- In 2022, I switched jobs and visited the UK, France, Greece, Belgium, Luxembourg, Germany, and Kenya.
-- In 2023, I visited France, the UK, Ireland, and Rwanda.
-- I am an Oregon Trail II enthusiast.
+- I grew up in Mangli, Pauni, surrounded by farms, a flowing river, and nature. A little village, but a big part of who I am.
+- In 2015, I started exploring places around Maharashtra, discovering forts, temples, and beautiful landscapes.
+- In 2017, I visited Kolhapur, including Shri Ambabai Temple and Rankala Lake.
+- In 2018, I explored the Konkan region, including Ratnagiri, Ganpatipule, and Kunkeshwar.
+- In 2019, I continued exploring historical places, temples, and natural destinations around Maharashtra.
+- In 2020, I spent more time discovering nearby places and exploring the beauty of my home state.
+- In 2021, I explored mountain destinations, including Kalsubai Peak.
+- In 2022, I continued discovering Maharashtra's forts, mountains, and historical landmarks.
+- In 2023, I explored Karnataka, including Nandi Hills and Murudeshwar.
+- In 2024, I explored more historical destinations, including Rajmachi Fort, Laxmi Vilas Palace, and Chhatrapati Shahu Maharaj's New Palace.
+- In 2026, I visited Goa and Malvan, exploring beautiful beaches, coastal landscapes, Tarkarli Beach, and Sindhudurg Fort.
+- [My Google Maps travel wishlist](https://maps.app.goo.gl/hgAGMnng4nx7KYWLA) keeps growing faster than my actual travel plans.
 
 # Fun Facts
 
-- I have a list of thousands of ideas, like creating matching bow ties for cats and humans.
-- I almost always have a sketchbook with me and a [01 Sakura Pigma Micron Pen](https://www.sakuraofamerica.com/product/pigma-micron/).
-- I can't locate every country on a map.
-- I operate a [small angel fund](http://skepticalinvestments.biz/) with terrible returns.
-- I break about 30 traffic laws on a skateboard or [bicycle](https://www.citibikenyc.com/) every single day.
-- I stack-rank coffee shops, restaurants, and every dog I see in New York.
-- I added this page because many people complained that my site was just my resume.
+- I don't always know what I'm doing, but I keep going until I figure it out.
+- I may not be good at everything, but I believe determination make me great at anything.
+- I start many projects, but only leave the ones that don't excite me.
+- I trust my own mind and believe I can achieve anything.
+- I once broke my daily coding streak and still haven't made it back to 54 days.
+- I stack-rank coffee shops, restaurants, and every dog I see in India.
+- I added this page because my resume needed a personality.
 
 # I Dream Of
 
-- Inspiring and feeling inspired.
-- Enabling a brighter future for everyone, regardless of political or socioeconomic status.
-- Treating every individual with genuine kindness and respect.
-- Staying curious.
-- Continually improving.
-- You not checking the commit history for earlier drafts of this file.
+- Become a great man, not just in what I accomplish, but in who I become along the way.
+- Building a career that allows me to explore, learn, and create.
+- Making a positive impact on the world through technology and innovation.
+- Inspiring others to pursue their passions and embrace curiosity.
+- Contributing to open-source projects and the broader tech community.
+- Traveling to new places, experiencing different cultures, and learning from diverse perspectives.
+- Continuously improving my skills and knowledge in software development, AI, and data science.
 
-# Websites from People I Admire
-
-- [Alex Peysakhovich](http://alexpeys.github.io/)
-- [Chris Lengerich](http://www.chrislengerich.com/)
-- [Chris Saad](https://www.chrissaad.com/)
-- [Duncan Tomlin](http://duncantomlin.com/)
-- [Ed Kearney](https://edkearney.com/)
-- [Gia Jung](http://giajung.com/)
-- [Hawley Moore](http://hawleymoore.com/)
-- [Holman Gao](https://golmansax.com/)
-- [Ian Webster](http://ianww.com/)
-- [Johanna Flato](https://www.johannaflato.com/)
-- [Judy Mou](http://www.judymou.com/)
-- [Judy Suh](https://www.judysuh.com/)
-- [Kristina Monakhova](https://kristinamonakhova.com/)
-- [Noah Trueblood](http://notrueblood.com/)
-- [Ruoxi Wang](http://ruoxiw.com/)
-- [Tom Sachs](https://www.tomsachs.org/)
-- [Will Holley](https://willholley.com/)
-
-If we are friends and you feel like you belong on this list, you're probably right. Submit a PR, or ask me, and I'll add you.
 `;
