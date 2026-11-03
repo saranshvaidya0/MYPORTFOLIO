@@ -47,7 +47,7 @@ export default function ProjectsPage() {
         <header className="projects-header">
           <h1 className="page-title">Archive</h1>
           <p className="page-subtitle">
-            Early projects and experiments from my student years
+            Comeing Soon! This section will showcase.
           </p>
         </header>
 
