@@ -1,10 +1,10 @@
 export const aboutMarkdown = `# Intro
 
-I build products, companies, and teams across AI, security, and infrastructure. Today, I am a Member of the Technical Staff at [OpenAI](https://openai.com), working on [Promptfoo](https://promptfoo.dev) and [Codex Security](https://openai.com/index/codex-security-now-in-research-preview/). I help secure AI systems and use AI to find software vulnerabilities.
+I spend a lot of my time exploring ideas, learning new things, and turning curiosity into something real. I'm fascinated by technology, the way things work, and the possibilities that com from building something from scratch.
 
-I co-founded [Promptfoo](https://promptfoo.dev) before it joined OpenAI in 2026. I also co-founded [Arthena](https://arthena.com) (acquired by Masterworks) and [Matroid](https://matroid.com), led engineering at [Smile ID](https://usesmileid.com), and helped build satellites at [Planet](https://planet.com) and [Planetary Resources](https://en.wikipedia.org/wiki/Planetary_Resources).
+I'm [Saransh Takeshwar Vaidya](https://www.saranshvaidya.me/), a technology enthusiast and B.Tech student specialization in [Artifical Intelligence and Data Science (AI&DS)](https://en.wikipedia.org/wiki/ArtificalIntelligenceandDataScience), Originally from [Mangli, Maharashtra, India.]() My interests revolve around software development, artificial intelligence and creating project that challenge me to think differently.
 
-In my spare time, I enjoy investing in people and ideas through a [small venture fund](https://skepticalinvestments.biz), focusing on projects with high social impact. If you think I can be helpful to you or your cause, or if you're interested in collaborating, feel free to get in touch.
+Ultimately, I want to become a great man - Not just in what I accomplish, but in who I become along the way.
 
 # Some History
 
@@ -33,9 +33,8 @@ Ask me in person for other stories that I'm afraid to share with the internet.
 - Sailing and the sea.
 - Space.
 - Summer.
-- [Books](https://www.goodreads.com/mdangelo).
-- Colored pencils ([Faber-Castell Polychromos](https://www.faber-castell.com/products/art-and-graphic/polychromos)).
-- Podcasts ([The Daily](https://www.nytimes.com/column/the-daily), [The Ezra Klein Show](https://www.nytimes.com/column/ezra-klein-podcast), [Planet Money](https://www.npr.org/sections/money/), [Dwarkesh Podcast](https://www.dwarkesh.com/about/), [The a16z Show](https://a16z.com/podcasts/a16z-podcast/), [The MAD Podcast with Matt Turck](https://firstmark.com/community/the-mad-podcast/), [Uncapped with Jack Altman](https://podcasts.apple.com/us/podcast/uncapped-with-jack-altman/id1801867202), [Darknet Diaries](https://darknetdiaries.com/), and others).
+- Books.
+- Podcasts ([The Live](https://www.thehindu.com/topic/live-news/), [The Ezra Klein Show](https://www.nytimes.com/column/ezra-klein-podcast), [Planet Money](https://www.npr.org/sections/money/), [Dwarkesh Podcast](https://www.dwarkesh.com/about/), [The a16z Show](https://a16z.com/podcasts/a16z-podcast/), [The MAD Podcast with Matt Turck](https://firstmark.com/community/the-mad-podcast/), [Uncapped with Jack Altman](https://podcasts.apple.com/us/podcast/uncapped-with-jack-altman/id1801867202), [Darknet Diaries](https://darknetdiaries.com/), and others).
 - [Good design](/).
 - [Photography](https://instagram.com/dangelosaurus).
 
