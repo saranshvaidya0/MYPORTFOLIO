@@ -39,7 +39,7 @@ describe('Hero', () => {
     expect(codexSecurityLink).toHaveClass('hero-highlight');
 
     expect(container.querySelector('.hero-tagline')).toHaveTextContent(
-      "I'm a Member of the Technical Staff at OpenAI, working on Promptfoo and Codex Security. I help secure AI systems and use AI to find software vulnerabilities. I co-founded Promptfoo before it joined OpenAI in 2026.",
+      "I'm an aspiring Software Development Engineer, driven to build scalable software and turn innovative ideas into real-world solutions.",
     );
   });
 
