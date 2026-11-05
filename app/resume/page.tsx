@@ -44,7 +44,7 @@ export default function ResumePage() {
             <span aria-hidden="true"> · </span>
             <a href={`mailto:${profile.email}`}>{profile.email}</a>
             <span aria-hidden="true"> · </span>
-            <a href="https://github.com/mldangelo">github.com/mldangelo</a>
+            <a href="https://github.com/saranshvaidya">github.com/saranshvaidya</a>
           </address>
         </header>
 

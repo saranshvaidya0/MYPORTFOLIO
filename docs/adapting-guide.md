@@ -210,7 +210,7 @@ claim. This search covers the current name, domain, handle, employer, and
 repository:
 
 ```bash
-rg -n -i "Michael|mldangelo|dangelosaurus|mldangelo\\.com|OpenAI|Promptfoo" \
+rg -n -i "Michael|saranshvaidya|dangelosaurus|saranshvaidya\\.com|OpenAI|Promptfoo" \
   app content public scripts src package.json README.md
 ```
 
@@ -298,5 +298,5 @@ assets and absolute URL construction.
 
 ## Getting help
 
-Open an [issue](https://github.com/mldangelo/personal-site/issues) when the
+Open an [issue](https://github.com/saranshvaidya/personal-site/issues) when the
 instructions are unclear or appear to be wrong.
