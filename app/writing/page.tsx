@@ -125,14 +125,14 @@ export default function WritingPage() {
         <header className="writing-header">
           <div className="writing-header-row">
             <h1 className="page-title">Writing</h1>
-            <a
+            {/* <a
               href="/feed.xml"
               className="writing-rss-link"
               title="RSS Feed"
               aria-label="RSS Feed"
             >
               RSS
-            </a>
+            </a> */}
           </div>
         </header>
 

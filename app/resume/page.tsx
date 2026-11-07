@@ -17,7 +17,7 @@ import { AUTHOR_NAME, SITE_URL } from '@/lib/utils';
 
 export const metadata: Metadata = createPageMetadata({
   title: 'Resume',
-  description: `${AUTHOR_NAME}'s Resume. OpenAI, Promptfoo, Smile ID, Arthena, Matroid, Stanford ICME, YC alum.`,
+  description: `${AUTHOR_NAME}'s Resume. Open Contributor, Business Intelligence, SIH 2026 Dam Break Inundation Modelling, Wainganga College of Engineering & Management, B.E Artificial Intelligence, Data Science, AIDS, Z P Highschool Jr College lakhandur.`,
   path: '/resume/',
 });
 
@@ -28,7 +28,6 @@ export default function ResumePage() {
         <header className="resume-header">
           <h1 className="resume-title">Resume</h1>
           <p className="resume-summary">
-            {/*  */}
             Aspiring Software Developer and AI & Data Science Engineer passionate
             about building intelligent applications and scalable web solutions.
             Experienced in developing AI-powered projects, including plant disease detection,
@@ -38,7 +37,6 @@ export default function ResumePage() {
             community leadership, with a strong focus on problem-solving, innovation, and building
             secure, user-focused software solutions.
           </p>
-          {/*  */}
           <address className="resume-print-contact">
             <a href={`${SITE_URL}/`}>{SITE_URL.replace(/^https?:\/\//, '')}</a>
             <span aria-hidden="true"> · </span>

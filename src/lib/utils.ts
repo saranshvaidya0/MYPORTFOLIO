@@ -7,7 +7,7 @@ import profile from '@/data/profile.json';
 // Site configuration
 export const SITE_URL = 'https://saranshvaidya.me';
 export const AUTHOR_NAME = profile.name;
-export const TWITTER_HANDLE = '@dangelosaurus';
+export const TWITTER_HANDLE = '@premvaidya750';
 /**
  * The portrait. Used for JSON-LD `image`, where the value should be a picture
  * of the person, not a designed card.
